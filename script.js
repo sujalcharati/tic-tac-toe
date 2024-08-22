@@ -1,4 +1,4 @@
-
+alert(" let's start it!");
  let boxes= document.querySelectorAll(".box");
  let chance=true;
 
